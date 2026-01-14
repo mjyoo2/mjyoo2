@@ -2,10 +2,11 @@ name: Update Vibe Dashboard
 
 on:
   schedule:
-    - cron: '0 0,12 * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
   push:
     paths:
+      - '*-cc.json'
       - 'cc.json'
 
 jobs:
@@ -23,7 +24,15 @@ jobs:
 
       - run: npm install -g vibe-dashboard
 
-      - run: vibe-dashboard generate --input ./cc.json --output ./README.md --svg-output ./vibe-card.svg
+      - name: Generate dashboard from all sources
+        run: |
+          FILES=$(ls *-cc.json cc.json 2>/dev/null | tr '\n' ' ')
+          if [ -n "$FILES" ]; then
+            vibe-dashboard generate \
+              -i $FILES \
+              --output ./README.md \
+              --svg-output ./vibe-card.svg
+          fi
 
       - run: |
           git config --local user.email "action@github.com"
