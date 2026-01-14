@@ -13,7 +13,7 @@
   <rect x="0.5" y="0.5" width="899" height="373" rx="4.5" fill="#0d1117" stroke="#30363d"/>
 
   <!-- Title -->
-  <text x="25" y="35" class="title">🎸 Vibe Coding Dashboard</text>
+  <text x="25" y="35" class="title">🎸 VibeDashboard</text>
 
   <!-- Stats Row -->
   <g transform="translate(25, 60)">
@@ -80,18 +80,18 @@
     <g transform="translate(0, 18)">
       <rect x="0" y="2" width="670" height="10" rx="3" fill="#21262d"/>
       <rect x="0" y="2" width="670" height="10" rx="3" fill="#58a6ff"/>
-      <text x="680" y="11" class="model-label">opus-4 100% ($806.91)</text>
+      <text x="680" y="11" class="model-label">opus-4.5 100% ($806.91)</text>
     </g>
     <g transform="translate(0, 38)">
       <rect x="0" y="2" width="670" height="10" rx="3" fill="#21262d"/>
       <rect x="0" y="2" width="0" height="10" rx="3" fill="#58a6ff"/>
-      <text x="680" y="11" class="model-label">sonnet-4 0% ($2.94)</text>
+      <text x="680" y="11" class="model-label">sonnet-4.5 0% ($2.94)</text>
     </g>
     <g transform="translate(0, 58)">
       <rect x="0" y="2" width="670" height="10" rx="3" fill="#21262d"/>
       <rect x="0" y="2" width="0" height="10" rx="3" fill="#58a6ff"/>
-      <text x="680" y="11" class="model-label">haiku-4 0% ($0.93)</text>
+      <text x="680" y="11" class="model-label">haiku-4.5 0% ($0.93)</text>
     </g>
   </g>
-  <text x="25" y="354" class="footer">Updated: 2026-01-14 06:42 UTC • Powered by VibeDashboard</text>
+  <text x="25" y="354" class="footer">Updated: 2026-01-14 13:00 UTC • Powered by <a href="https://github.com/mjyoo2/VibeDashboard" target="_blank">VibeDashboard</a></text>
 </svg>
