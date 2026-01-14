@@ -1,5 +1,5 @@
 ## Hi there 👋
 
   <!-- VIBE-DASHBOARD:START -->
- ![Vibe Dashboard](./vibe-card.svg?v=2)
+ ![Vibe Dashboard](./vibe-card.svg)
 <!-- VIBE-DASHBOARD:END -->
