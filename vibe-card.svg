@@ -23,19 +23,19 @@
     </g>
     <g transform="translate(150, 0)">
       <text class="stat-label">Total Cost</text>
-      <text y="22" class="stat-value">$1709.28</text>
+      <text y="22" class="stat-value">$1709.52</text>
     </g>
     <g transform="translate(320, 0)">
       <text class="stat-label">📅 Today</text>
-      <text y="22" class="stat-value-small">13.3M / $10.78</text>
+      <text y="22" class="stat-value-small">13.7M / $11.02</text>
     </g>
     <g transform="translate(510, 0)">
       <text class="stat-label">📊 This Week</text>
-      <text y="22" class="stat-value-small">831.1M / $734.13</text>
+      <text y="22" class="stat-value-small">831.5M / $734.37</text>
     </g>
     <g transform="translate(710, 0)">
       <text class="stat-label">📈 This Month</text>
-      <text y="22" class="stat-value-small">1.9B / $1706.04</text>
+      <text y="22" class="stat-value-small">1.9B / $1706.28</text>
     </g>
   </g>
   <!-- Weekly Usage Chart -->
@@ -71,7 +71,7 @@
     <text x="689.5" y="95" text-anchor="middle" class="model-label">01/17</text>
     <rect x="720" y="26.39967994092639" width="49" height="53.60032005907361" rx="3" fill="#58a6ff"/>
     <text x="744.5" y="95" text-anchor="middle" class="model-label">01/18</text>
-    <rect x="775" y="74.41078428169702" width="49" height="5.5892157183029845" rx="3" fill="#58a6ff"/>
+    <rect x="775" y="74.23177115446575" width="49" height="5.768228845534253" rx="3" fill="#58a6ff"/>
     <text x="799.5" y="95" text-anchor="middle" class="model-label">01/19</text>
   </g>
   <!-- Model Breakdown -->
@@ -80,7 +80,7 @@
     <g transform="translate(0, 18)">
       <rect x="0" y="2" width="670" height="10" rx="3" fill="#21262d"/>
       <rect x="0" y="2" width="663.3" height="10" rx="3" fill="#58a6ff"/>
-      <text x="680" y="11" class="model-label">opus-4.5 99% ($1693.95)</text>
+      <text x="680" y="11" class="model-label">opus-4.5 99% ($1694.19)</text>
     </g>
     <g transform="translate(0, 38)">
       <rect x="0" y="2" width="670" height="10" rx="3" fill="#21262d"/>
@@ -93,5 +93,5 @@
       <text x="680" y="11" class="model-label">sonnet-4.5 0% ($4.22)</text>
     </g>
   </g>
-  <text x="25" y="354" class="footer">Updated: 2026-01-19 01:01 UTC • Powered by <a href="https://github.com/mjyoo2/VibeDashboard" target="_blank">VibeDashboard</a></text>
+  <text x="25" y="354" class="footer">Updated: 2026-01-19 01:04 UTC • Powered by <a href="https://github.com/mjyoo2/VibeDashboard" target="_blank">VibeDashboard</a></text>
 </svg>
