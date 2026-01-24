@@ -424,7 +424,7 @@
       "cacheCreationTokens": 7389310,
       "cacheReadTokens": 140691928,
       "totalTokens": 151566815,
-      "totalCost": 130.80027209999992,
+      "totalCost": 130.8002720999999,
       "modelsUsed": [
         "glm-4.7-free",
         "grok-code",
@@ -773,7 +773,7 @@
       "cacheCreationTokens": 10752685,
       "cacheReadTokens": 127034360,
       "totalTokens": 138278097,
-      "totalCost": 142.95526124999992,
+      "totalCost": 142.9552612499999,
       "modelsUsed": [
         "claude-opus-4-5"
       ]
@@ -797,30 +797,42 @@
       "cacheCreationTokens": 1154088,
       "cacheReadTokens": 19190537,
       "totalTokens": 20513253,
-      "totalCost": 21.02351849999999,
+      "totalCost": 21.023518499999994,
       "modelsUsed": [
         "claude-opus-4-5"
       ]
     },
     {
       "date": "2026-01-23",
-      "inputTokens": 35,
-      "outputTokens": 56262,
-      "cacheCreationTokens": 1362807,
-      "cacheReadTokens": 10338921,
-      "totalTokens": 11758025,
-      "totalCost": 15.093729249999996,
+      "inputTokens": 37,
+      "outputTokens": 57941,
+      "cacheCreationTokens": 1520939,
+      "cacheReadTokens": 10896201,
+      "totalTokens": 12475118,
+      "totalCost": 16.40267925,
+      "modelsUsed": [
+        "claude-opus-4-5"
+      ]
+    },
+    {
+      "date": "2026-01-24",
+      "inputTokens": 54,
+      "outputTokens": 130558,
+      "cacheCreationTokens": 3351104,
+      "cacheReadTokens": 40294683,
+      "totalTokens": 43776399,
+      "totalCost": 44.355961500000014,
       "modelsUsed": [
         "claude-opus-4-5"
       ]
     }
   ],
   "totals": {
-    "inputTokens": 4353980,
-    "outputTokens": 2352742,
-    "cacheCreationTokens": 77410367,
-    "cacheReadTokens": 1037878327,
-    "totalTokens": 1121995416,
-    "totalCost": 1022.9717501999996
+    "inputTokens": 4354036,
+    "outputTokens": 2484979,
+    "cacheCreationTokens": 80919603,
+    "cacheReadTokens": 1078730290,
+    "totalTokens": 1166488908,
+    "totalCost": 1068.6366616999996
   }
 }
