@@ -23,19 +23,19 @@
     </g>
     <g transform="translate(150, 0)">
       <text class="stat-label">Total Cost</text>
-      <text y="22" class="stat-value">$4567.11</text>
+      <text y="22" class="stat-value">$4569.00</text>
     </g>
     <g transform="translate(320, 0)">
       <text class="stat-label">📅 Today</text>
-      <text y="22" class="stat-value-small">2.8M / $3.25</text>
+      <text y="22" class="stat-value-small">4.7M / $5.14</text>
     </g>
     <g transform="translate(510, 0)">
       <text class="stat-label">📊 This Week</text>
-      <text y="22" class="stat-value-small">342.6M / $291.51</text>
+      <text y="22" class="stat-value-small">344.4M / $293.39</text>
     </g>
     <g transform="translate(710, 0)">
       <text class="stat-label">📈 This Month</text>
-      <text y="22" class="stat-value-small">3.5B / $3235.23</text>
+      <text y="22" class="stat-value-small">3.5B / $3237.12</text>
     </g>
   </g>
   <!-- Weekly Usage Chart -->
@@ -85,7 +85,7 @@
     <g transform="translate(0, 38)">
       <rect x="0" y="2" width="670" height="10" rx="3" fill="#21262d"/>
       <rect x="0" y="2" width="13.4" height="10" rx="3" fill="#58a6ff"/>
-      <text x="680" y="11" class="model-label">4-6 2% ($84.05)</text>
+      <text x="680" y="11" class="model-label">4-6 2% ($85.93)</text>
     </g>
     <g transform="translate(0, 58)">
       <rect x="0" y="2" width="670" height="10" rx="3" fill="#21262d"/>
@@ -98,5 +98,5 @@
       <text x="680" y="11" class="model-label">sonnet-4.5 0% ($5.10)</text>
     </g>
   </g>
-  <text x="25" y="372" class="footer">Updated: 2026-02-14 13:02 UTC • Powered by <a href="https://github.com/mjyoo2/VibeDashboard" target="_blank">VibeDashboard</a></text>
+  <text x="25" y="372" class="footer">Updated: 2026-02-14 15:00 UTC • Powered by <a href="https://github.com/mjyoo2/VibeDashboard" target="_blank">VibeDashboard</a></text>
 </svg>
