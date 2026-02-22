@@ -23,19 +23,19 @@
     </g>
     <g transform="translate(150, 0)">
       <text class="stat-label">Total Cost</text>
-      <text y="22" class="stat-value">$3479.54</text>
+      <text y="22" class="stat-value">$3483.24</text>
     </g>
     <g transform="translate(320, 0)">
       <text class="stat-label">📅 Today</text>
-      <text y="22" class="stat-value-small">26.4M / $17.32</text>
+      <text y="22" class="stat-value-small">32.8M / $21.01</text>
     </g>
     <g transform="translate(510, 0)">
       <text class="stat-label">📊 This Week</text>
-      <text y="22" class="stat-value-small">304.9M / $204.00</text>
+      <text y="22" class="stat-value-small">311.4M / $207.69</text>
     </g>
     <g transform="translate(710, 0)">
       <text class="stat-label">📈 This Month</text>
-      <text y="22" class="stat-value-small">3.2B / $2718.07</text>
+      <text y="22" class="stat-value-small">3.2B / $2721.76</text>
     </g>
   </g>
   <!-- Weekly Usage Chart -->
@@ -71,7 +71,7 @@
     <text x="689.5" y="95" text-anchor="middle" class="model-label">02/20</text>
     <rect x="720" y="5" width="49" height="75" rx="3" fill="#58a6ff"/>
     <text x="744.5" y="95" text-anchor="middle" class="model-label">02/21</text>
-    <rect x="775" y="70.15308924414305" width="49" height="9.84691075585695" rx="3" fill="#58a6ff"/>
+    <rect x="775" y="67.75188299711085" width="49" height="12.248117002889146" rx="3" fill="#58a6ff"/>
     <text x="799.5" y="95" text-anchor="middle" class="model-label">02/22</text>
   </g>
   <!-- Model Breakdown -->
@@ -85,7 +85,7 @@
     <g transform="translate(0, 38)">
       <rect x="0" y="2" width="670" height="10" rx="3" fill="#21262d"/>
       <rect x="0" y="2" width="53.6" height="10" rx="3" fill="#58a6ff"/>
-      <text x="680" y="11" class="model-label">4-6 8% ($284.04)</text>
+      <text x="680" y="11" class="model-label">4-6 8% ($287.73)</text>
     </g>
     <g transform="translate(0, 58)">
       <rect x="0" y="2" width="670" height="10" rx="3" fill="#21262d"/>
@@ -103,5 +103,5 @@
       <text x="680" y="11" class="model-label">4-6 0% ($3.98)</text>
     </g>
   </g>
-  <text x="25" y="390" class="footer">Updated: 2026-02-22 02:44 UTC • Powered by <a href="https://github.com/mjyoo2/VibeDashboard" target="_blank">VibeDashboard</a></text>
+  <text x="25" y="390" class="footer">Updated: 2026-02-22 03:00 UTC • Powered by <a href="https://github.com/mjyoo2/VibeDashboard" target="_blank">VibeDashboard</a></text>
 </svg>
