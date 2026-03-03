@@ -21,7 +21,7 @@
       "cacheCreationTokens": 7389310,
       "cacheReadTokens": 140691928,
       "totalTokens": 151566815,
-      "totalCost": 130.8002720999999,
+      "totalCost": 130.80027209999986,
       "modelsUsed": [
         "glm-4.7-free",
         "grok-code",
@@ -362,7 +362,7 @@
       "cacheCreationTokens": 7088332,
       "cacheReadTokens": 50132446,
       "totalTokens": 57472341,
-      "totalCost": 75.65525299999997,
+      "totalCost": 75.65525299999996,
       "modelsUsed": [
         "claude-opus-4-5"
       ]
@@ -434,7 +434,7 @@
       "cacheCreationTokens": 5909375,
       "cacheReadTokens": 118136862,
       "totalTokens": 124495214,
-      "totalCost": 106.49731365,
+      "totalCost": 106.49731364999997,
       "modelsUsed": [
         "claude-opus-4-5",
         "claude-sonnet-4-5"
@@ -461,7 +461,7 @@
       "cacheCreationTokens": 9903464,
       "cacheReadTokens": 195928647,
       "totalTokens": 206810603,
-      "totalCost": 184.15595350000015,
+      "totalCost": 184.15595350000012,
       "modelsUsed": [
         "claude-opus-4-5"
       ]
@@ -487,7 +487,7 @@
       "cacheCreationTokens": 14464218,
       "cacheReadTokens": 226596636,
       "totalTokens": 242625411,
-      "totalCost": 237.5174029999996,
+      "totalCost": 237.51740299999938,
       "modelsUsed": [
         "claude-opus-4-5",
         "kimi-k2.5-free",
@@ -501,7 +501,7 @@
       "cacheCreationTokens": 12959306,
       "cacheReadTokens": 220033522,
       "totalTokens": 234103448,
-      "totalCost": 212.91445309999963,
+      "totalCost": 212.9144530999996,
       "modelsUsed": [
         "claude-opus-4-5",
         "claude-haiku-4-5"
@@ -538,7 +538,7 @@
       "cacheCreationTokens": 6425001,
       "cacheReadTokens": 107072918,
       "totalTokens": 113972675,
-      "totalCost": 105.52203525000006,
+      "totalCost": 105.52203525000004,
       "modelsUsed": [
         "claude-opus-4-5"
       ],
@@ -603,8 +603,8 @@
       "totalTokens": 16066501,
       "totalCost": 15.994982599999998,
       "modelsUsed": [
-        "claude-opus-4-6",
-        "claude-haiku-4-5"
+        "claude-haiku-4-5",
+        "claude-opus-4-6"
       ]
     },
     {
@@ -614,7 +614,7 @@
       "cacheCreationTokens": 3582421,
       "cacheReadTokens": 65143726,
       "totalTokens": 68903063,
-      "totalCost": 56.73519265,
+      "totalCost": 56.735192649999995,
       "modelsUsed": [
         "claude-opus-4-6",
         "claude-haiku-4-5"
@@ -643,8 +643,8 @@
       "totalTokens": 43112538,
       "totalCost": 44.09322605000001,
       "modelsUsed": [
-        "claude-opus-4-6",
         "claude-haiku-4-5",
+        "claude-opus-4-6",
         "gpt-5.3-codex"
       ]
     },
@@ -655,7 +655,7 @@
       "cacheCreationTokens": 5534031,
       "cacheReadTokens": 162921324,
       "totalTokens": 170379221,
-      "totalCost": 124.55243740000004,
+      "totalCost": 124.55243740000007,
       "modelsUsed": [
         "claude-haiku-4-5",
         "claude-opus-4-6",
@@ -915,14 +915,36 @@
           "cost": 0.1421315
         }
       ]
+    },
+    {
+      "date": "2026-03-03",
+      "inputTokens": 159,
+      "outputTokens": 5539,
+      "cacheCreationTokens": 298501,
+      "cacheReadTokens": 5049165,
+      "totalTokens": 5353364,
+      "totalCost": 4.529483750000001,
+      "modelsUsed": [
+        "claude-opus-4-6"
+      ],
+      "modelBreakdowns": [
+        {
+          "modelName": "claude-opus-4-6",
+          "inputTokens": 159,
+          "outputTokens": 5539,
+          "cacheCreationTokens": 298501,
+          "cacheReadTokens": 5049165,
+          "cost": 4.529483750000001
+        }
+      ]
     }
   ],
   "totals": {
-    "inputTokens": 5744293,
-    "outputTokens": 12826896,
-    "cacheCreationTokens": 170356202,
-    "cacheReadTokens": 2975479491,
-    "totalTokens": 3164406882,
-    "totalCost": 2752.5482831499994
+    "inputTokens": 5744452,
+    "outputTokens": 12832435,
+    "cacheCreationTokens": 170654703,
+    "cacheReadTokens": 2980528656,
+    "totalTokens": 3169760246,
+    "totalCost": 2757.0777668999995
   }
 }
