@@ -23,19 +23,19 @@
     </g>
     <g transform="translate(150, 0)">
       <text class="stat-label">Total Cost</text>
-      <text y="22" class="stat-value">$4576.69</text>
+      <text y="22" class="stat-value">$4583.74</text>
     </g>
     <g transform="translate(320, 0)">
       <text class="stat-label">📅 Today</text>
-      <text y="22" class="stat-value-small">82.5M / $50.58</text>
+      <text y="22" class="stat-value-small">90.2M / $57.63</text>
     </g>
     <g transform="translate(510, 0)">
       <text class="stat-label">📊 This Week</text>
-      <text y="22" class="stat-value-small">1.4B / $888.24</text>
+      <text y="22" class="stat-value-small">1.4B / $895.30</text>
     </g>
     <g transform="translate(710, 0)">
       <text class="stat-label">📈 This Month</text>
-      <text y="22" class="stat-value-small">3.4B / $2384.61</text>
+      <text y="22" class="stat-value-small">3.4B / $2391.66</text>
     </g>
   </g>
   <!-- Weekly Usage Chart -->
@@ -71,7 +71,7 @@
     <text x="689.5" y="95" text-anchor="middle" class="model-label">03/04</text>
     <rect x="720" y="27.828032593130928" width="49" height="52.17196740686907" rx="3" fill="#58a6ff"/>
     <text x="744.5" y="95" text-anchor="middle" class="model-label">03/05</text>
-    <rect x="775" y="60.201898517914486" width="49" height="19.798101482085514" rx="3" fill="#58a6ff"/>
+    <rect x="775" y="58.34530855718167" width="49" height="21.654691442818333" rx="3" fill="#58a6ff"/>
     <text x="799.5" y="95" text-anchor="middle" class="model-label">03/06</text>
   </g>
   <!-- Model Breakdown -->
@@ -80,7 +80,7 @@
     <g transform="translate(0, 18)">
       <rect x="0" y="2" width="670" height="10" rx="3" fill="#21262d"/>
       <rect x="0" y="2" width="254.6" height="10" rx="3" fill="#58a6ff"/>
-      <text x="680" y="11" class="model-label">4-6 38% ($1735.55)</text>
+      <text x="680" y="11" class="model-label">4-6 38% ($1742.60)</text>
     </g>
     <g transform="translate(0, 38)">
       <rect x="0" y="2" width="670" height="10" rx="3" fill="#21262d"/>
