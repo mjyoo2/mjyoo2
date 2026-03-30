@@ -27,15 +27,15 @@
     </g>
     <g transform="translate(320, 0)">
       <text class="stat-label">📅 Today</text>
-      <text y="22" class="stat-value-small">64.7M / $57.82</text>
+      <text y="22" class="stat-value-small">102.2K / $0.06</text>
     </g>
     <g transform="translate(510, 0)">
       <text class="stat-label">📊 This Week</text>
-      <text y="22" class="stat-value-small">314.5M / $255.53</text>
+      <text y="22" class="stat-value-small">308.9M / $247.77</text>
     </g>
     <g transform="translate(710, 0)">
       <text class="stat-label">📈 This Month</text>
-      <text y="22" class="stat-value-small">2.1B / $1548.04</text>
+      <text y="22" class="stat-value-small">1.9B / $1410.05</text>
     </g>
   </g>
   <!-- Weekly Usage Chart -->
@@ -103,5 +103,5 @@
       <text x="680" y="11" class="model-label">sonnet-4.5 0% ($5.10)</text>
     </g>
   </g>
-  <text x="25" y="390" class="footer">Updated: 2026-03-29 18:53 UTC • Powered by <a href="https://github.com/mjyoo2/VibeDashboard" target="_blank">VibeDashboard</a></text>
+  <text x="25" y="390" class="footer">Updated: 2026-03-30 03:20 UTC • Powered by <a href="https://github.com/mjyoo2/VibeDashboard" target="_blank">VibeDashboard</a></text>
 </svg>
