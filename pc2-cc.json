@@ -1126,12 +1126,12 @@
     },
     {
       "date": "2026-03-25",
-      "inputTokens": 237,
-      "outputTokens": 11297,
-      "cacheCreationTokens": 730924,
-      "cacheReadTokens": 6202054,
-      "totalTokens": 6944512,
-      "totalCost": 7.245537599999997,
+      "inputTokens": 231,
+      "outputTokens": 11257,
+      "cacheCreationTokens": 708123,
+      "cacheReadTokens": 6179617,
+      "totalTokens": 6899228,
+      "totalCost": 7.090782849999997,
       "modelsUsed": [
         "claude-opus-4-6",
         "claude-haiku-4-5-20251001"
@@ -1139,11 +1139,11 @@
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-4-6",
-          "inputTokens": 204,
-          "outputTokens": 6474,
-          "cacheCreationTokens": 653540,
-          "cacheReadTokens": 5642398,
-          "cost": 7.068693999999998
+          "inputTokens": 198,
+          "outputTokens": 6434,
+          "cacheCreationTokens": 630739,
+          "cacheReadTokens": 5619961,
+          "cost": 6.9139392499999985
         },
         {
           "modelName": "claude-haiku-4-5-20251001",
@@ -1866,14 +1866,36 @@
           "cost": 3.2862195000000005
         }
       ]
+    },
+    {
+      "date": "2026-04-24",
+      "inputTokens": 96,
+      "outputTokens": 11293,
+      "cacheCreationTokens": 64154,
+      "cacheReadTokens": 700516,
+      "totalTokens": 776059,
+      "totalCost": 1.0340255,
+      "modelsUsed": [
+        "claude-opus-4-7"
+      ],
+      "modelBreakdowns": [
+        {
+          "modelName": "claude-opus-4-7",
+          "inputTokens": 96,
+          "outputTokens": 11293,
+          "cacheCreationTokens": 64154,
+          "cacheReadTokens": 700516,
+          "cost": 1.0340255
+        }
+      ]
     }
   ],
   "totals": {
-    "inputTokens": 40442,
-    "outputTokens": 2368348,
-    "cacheCreationTokens": 70821422,
-    "cacheReadTokens": 1030228675,
-    "totalCost": 945.3919524999998,
-    "totalTokens": 1103458887
+    "inputTokens": 40532,
+    "outputTokens": 2379601,
+    "cacheCreationTokens": 70862775,
+    "cacheReadTokens": 1030906754,
+    "totalCost": 946.2712232499998,
+    "totalTokens": 1104189662
   }
 }
