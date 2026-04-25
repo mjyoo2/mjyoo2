@@ -19,23 +19,23 @@
   <g transform="translate(25, 60)">
     <g>
       <text class="stat-label">Total Tokens</text>
-      <text y="22" class="stat-value">4.3B</text>
+      <text y="22" class="stat-value">4.5B</text>
     </g>
     <g transform="translate(150, 0)">
       <text class="stat-label">Total Cost</text>
-      <text y="22" class="stat-value">$3233.08</text>
+      <text y="22" class="stat-value">$3373.76</text>
     </g>
     <g transform="translate(320, 0)">
       <text class="stat-label">📅 Today</text>
-      <text y="22" class="stat-value-small">52.2K / $0.35</text>
+      <text y="22" class="stat-value-small">199.1M / $122.58</text>
     </g>
     <g transform="translate(510, 0)">
       <text class="stat-label">📊 This Week</text>
-      <text y="22" class="stat-value-small">1.5B / $980.90</text>
+      <text y="22" class="stat-value-small">1.7B / $1125.59</text>
     </g>
     <g transform="translate(710, 0)">
       <text class="stat-label">📈 This Month</text>
-      <text y="22" class="stat-value-small">3.7B / $2694.41</text>
+      <text y="22" class="stat-value-small">3.9B / $2839.11</text>
     </g>
   </g>
   <!-- Weekly Usage Chart -->
@@ -69,9 +69,9 @@
     <text x="634.5" y="95" text-anchor="middle" class="model-label">04/22</text>
     <rect x="665" y="77.42453688046403" width="49" height="2.575463119535967" rx="3" fill="#58a6ff"/>
     <text x="689.5" y="95" text-anchor="middle" class="model-label">04/23</text>
-    <rect x="720" y="78" width="49" height="2" rx="3" fill="#58a6ff"/>
+    <rect x="720" y="75.77250523898486" width="49" height="4.227494761015137" rx="3" fill="#58a6ff"/>
     <text x="744.5" y="95" text-anchor="middle" class="model-label">04/24</text>
-    <rect x="775" y="78" width="49" height="2" rx="3" fill="#58a6ff"/>
+    <rect x="775" y="49.742523458792775" width="49" height="30.25747654120722" rx="3" fill="#58a6ff"/>
     <text x="799.5" y="95" text-anchor="middle" class="model-label">04/25</text>
   </g>
   <!-- Model Breakdown -->
@@ -79,13 +79,13 @@
     <text class="section-title">🤖 Model Usage</text>
     <g transform="translate(0, 18)">
       <rect x="0" y="2" width="670" height="10" rx="3" fill="#21262d"/>
-      <rect x="0" y="2" width="408.7" height="10" rx="3" fill="#58a6ff"/>
-      <text x="680" y="11" class="model-label">4-6 61% ($1962.45)</text>
+      <rect x="0" y="2" width="388.59999999999997" height="10" rx="3" fill="#58a6ff"/>
+      <text x="680" y="11" class="model-label">4-6 58% ($1958.76)</text>
     </g>
     <g transform="translate(0, 38)">
       <rect x="0" y="2" width="670" height="10" rx="3" fill="#21262d"/>
-      <rect x="0" y="2" width="214.4" height="10" rx="3" fill="#58a6ff"/>
-      <text x="680" y="11" class="model-label">4-7 32% ($1041.01)</text>
+      <rect x="0" y="2" width="234.49999999999997" height="10" rx="3" fill="#58a6ff"/>
+      <text x="680" y="11" class="model-label">4-7 35% ($1185.71)</text>
     </g>
     <g transform="translate(0, 58)">
       <rect x="0" y="2" width="670" height="10" rx="3" fill="#21262d"/>
@@ -100,8 +100,8 @@
     <g transform="translate(0, 98)">
       <rect x="0" y="2" width="670" height="10" rx="3" fill="#21262d"/>
       <rect x="0" y="2" width="6.7" height="10" rx="3" fill="#58a6ff"/>
-      <text x="680" y="11" class="model-label">haiku-4.5 1% ($39.77)</text>
+      <text x="680" y="11" class="model-label">haiku-4.5 1% ($39.44)</text>
     </g>
   </g>
-  <text x="25" y="390" class="footer">Updated: 2026-04-25 13:18 UTC • Powered by <a href="https://github.com/mjyoo2/VibeDashboard" target="_blank">VibeDashboard</a></text>
+  <text x="25" y="390" class="footer">Updated: 2026-04-25 15:00 UTC • Powered by <a href="https://github.com/mjyoo2/VibeDashboard" target="_blank">VibeDashboard</a></text>
 </svg>
