@@ -23,19 +23,19 @@
     </g>
     <g transform="translate(150, 0)">
       <text class="stat-label">Total Cost</text>
-      <text y="22" class="stat-value">$3194.88</text>
+      <text y="22" class="stat-value">$3196.33</text>
     </g>
     <g transform="translate(320, 0)">
       <text class="stat-label">📅 Today</text>
-      <text y="22" class="stat-value-small">980K / $1.54</text>
+      <text y="22" class="stat-value-small">1.7M / $2.99</text>
     </g>
     <g transform="translate(510, 0)">
       <text class="stat-label">📊 This Week</text>
-      <text y="22" class="stat-value-small">26.4M / $33.93</text>
+      <text y="22" class="stat-value-small">27.1M / $35.38</text>
     </g>
     <g transform="translate(710, 0)">
       <text class="stat-label">📈 This Month</text>
-      <text y="22" class="stat-value-small">538.9M / $463.26</text>
+      <text y="22" class="stat-value-small">539.6M / $464.71</text>
     </g>
   </g>
   <!-- Weekly Usage Chart -->
@@ -71,7 +71,7 @@
     <text x="689.5" y="95" text-anchor="middle" class="model-label">06/01</text>
     <rect x="720" y="21.37091272540684" width="49" height="58.62908727459316" rx="3" fill="#58a6ff"/>
     <text x="744.5" y="95" text-anchor="middle" class="model-label">06/03</text>
-    <rect x="775" y="75.21649659053723" width="49" height="4.783503409462773" rx="3" fill="#58a6ff"/>
+    <rect x="775" y="71.89682460342688" width="49" height="8.103175396573121" rx="3" fill="#58a6ff"/>
     <text x="799.5" y="95" text-anchor="middle" class="model-label">06/04</text>
   </g>
   <!-- Model Breakdown -->
@@ -100,8 +100,8 @@
     <g transform="translate(0, 98)">
       <rect x="0" y="2" width="670" height="10" rx="3" fill="#21262d"/>
       <rect x="0" y="2" width="6.7" height="10" rx="3" fill="#58a6ff"/>
-      <text x="680" y="11" class="model-label">4-8 1% ($32.75)</text>
+      <text x="680" y="11" class="model-label">4-8 1% ($34.20)</text>
     </g>
   </g>
-  <text x="25" y="390" class="footer">Updated: 2026-06-04 10:04 UTC • Powered by <a href="https://github.com/mjyoo2/VibeDashboard" target="_blank">VibeDashboard</a></text>
+  <text x="25" y="390" class="footer">Updated: 2026-06-04 15:00 UTC • Powered by <a href="https://github.com/mjyoo2/VibeDashboard" target="_blank">VibeDashboard</a></text>
 </svg>
