@@ -35,7 +35,7 @@
     </g>
     <g transform="translate(710, 0)">
       <text class="stat-label">📈 This Month</text>
-      <text y="22" class="stat-value-small">37.2M / $46.51</text>
+      <text y="22" class="stat-value-small">25.2M / $31.39</text>
     </g>
   </g>
   <!-- Weekly Usage Chart -->
@@ -103,5 +103,5 @@
       <text x="680" y="11" class="model-label">4-6 1% ($35.20)</text>
     </g>
   </g>
-  <text x="25" y="390" class="footer">Updated: 2026-07-03 19:37 UTC • Powered by <a href="https://github.com/mjyoo2/VibeDashboard" target="_blank">VibeDashboard</a></text>
+  <text x="25" y="390" class="footer">Updated: 2026-07-04 03:41 UTC • Powered by <a href="https://github.com/mjyoo2/VibeDashboard" target="_blank">VibeDashboard</a></text>
 </svg>
