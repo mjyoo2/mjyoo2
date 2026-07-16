@@ -23,19 +23,19 @@
     </g>
     <g transform="translate(150, 0)">
       <text class="stat-label">Total Cost</text>
-      <text y="22" class="stat-value">$2697.83</text>
+      <text y="22" class="stat-value">$2700.86</text>
     </g>
     <g transform="translate(320, 0)">
       <text class="stat-label">📅 Today</text>
-      <text y="22" class="stat-value-small">4.9M / $5.37</text>
+      <text y="22" class="stat-value-small">6.7M / $8.41</text>
     </g>
     <g transform="translate(510, 0)">
       <text class="stat-label">📊 This Week</text>
-      <text y="22" class="stat-value-small">5.8M / $6.43</text>
+      <text y="22" class="stat-value-small">7.7M / $9.46</text>
     </g>
     <g transform="translate(710, 0)">
       <text class="stat-label">📈 This Month</text>
-      <text y="22" class="stat-value-small">5.8M / $6.43</text>
+      <text y="22" class="stat-value-small">7.7M / $9.46</text>
     </g>
   </g>
   <!-- Weekly Usage Chart -->
@@ -103,5 +103,5 @@
       <text x="680" y="11" class="model-label">haiku-4.5 1% ($26.88)</text>
     </g>
   </g>
-  <text x="25" y="390" class="footer">Updated: 2026-07-16 08:22 UTC • Powered by <a href="https://github.com/mjyoo2/VibeDashboard" target="_blank">VibeDashboard</a></text>
+  <text x="25" y="390" class="footer">Updated: 2026-07-16 09:00 UTC • Powered by <a href="https://github.com/mjyoo2/VibeDashboard" target="_blank">VibeDashboard</a></text>
 </svg>
